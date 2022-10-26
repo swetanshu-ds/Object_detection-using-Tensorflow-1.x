@@ -6,6 +6,7 @@
 If you want to change the images then go to -
 
 ->  models
+-> research
 -> object_detection
 -> test_images
 
