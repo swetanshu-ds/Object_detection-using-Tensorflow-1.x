@@ -19,3 +19,4 @@ And then copy the model name or else copy the model link address and then cut ou
 Then paste it in the place of MODEL_NAME.
 
 
+RUN all the cells and you will see the object detection again on some different chosen image
